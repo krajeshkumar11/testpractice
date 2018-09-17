@@ -1,0 +1,10 @@
+|--------------|
+question text 1
+ Wrong Answer! - Penalty: -4
+question text 2
+ Wrong Answer! - Penalty: -3
+question text 3
+ Wrong Answer! - Penalty: -2
+question text 4
+ Wrong Answer! - Penalty: -1
+Total Score: -10
